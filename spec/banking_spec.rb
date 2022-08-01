@@ -1,3 +1,5 @@
+require "spec_helper"
+
 describe "BankAccount" do
 
   let(:avi) { BankAccount.new("Avi") }
